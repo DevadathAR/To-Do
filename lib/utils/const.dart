@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:provider/provider.dart';
+export 'package:to_do_app/utils/colors.dart';
+export 'package:to_do_app/view_models/task_view_model.dart';
+export 'package:to_do_app/views/newTask.dart';
+export 'package:to_do_app/views/taskDetails.dart';
+export 'package:to_do_app/widgets/taskTile.dart';
+export 'package:to_do_app/views/homePage.dart';
+export 'package:to_do_app/views/newActivity.dart';
+export 'package:to_do_app/models/activity.dart';
+export 'package:to_do_app/models/task.dart';
+export 'package:uuid/uuid.dart';
